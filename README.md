@@ -8,4 +8,4 @@
 **Fett**
 _italisch_
 
-[Link](webmail.landshut.org) and ![Image](fassedichkurz2.jpg)
+[webmail](http://webmail.landshut.org) and ![Image](fassedichkurz2.jpg)
